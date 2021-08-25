@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shota Kizawa.
 
 - 🔭 I’m currently working on Plaid.inc (long-term internship, 2021/4 - now)
-- 🌱 I’m currently learning Go, Typescript, Vue, Ethereum, Polkadot, etc...
+- 🌱 I’m currently learning Go, Typescript, Vue.js, Ethereum, Polkadot, etc...
 
 <!-- **kiibo382/kiibo382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
