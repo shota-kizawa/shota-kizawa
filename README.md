@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shota Kizawa.
 
 - 🔭 I’m currently working on Plaid.inc (long-term internship, 2021/4 - now)
-- 🌱 I’m currently learning Go, Typescript, Vue.js, Ethereum, Polkadot, etc...
+- 🌱 I’m currently learning Database, Rust, Go, Typescript, Vue.js, Polkadot, etc...
 - Detailed profile is below.
 - https://www.wantedly.com/id/sk_shota_kizawa
 
