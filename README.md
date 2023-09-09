@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Shota Kizawa.
 
-- 🔭 I’m currently working on Plaid.inc (long-term internship, 2021/4 - now)
-- 🌱 I’m currently learning Data analysis, etc...
-- Detailed profile is below.
-- https://www.linkedin.com/in/shota-kizawa
+- I’m interested in Graph Neural Networks, Graph Algorithms, and Discrete Mathematics.
+- Detailed profile: https://www.linkedin.com/in/shota-kizawa
 
 <!-- **kiibo382/kiibo382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
