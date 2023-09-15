@@ -2,8 +2,8 @@
 
 - I’m interested in Graph Neural Networks, Graph Algorithms, and Discrete Mathematics.
 - Detailed profile:
- - https://www.linkedin.com/in/shota-kizawa
- - https://www.wantedly.com/id/sk_shota_kizawa
+  - https://www.linkedin.com/in/shota-kizawa
+  - https://www.wantedly.com/id/sk_shota_kizawa
 
 <!-- **kiibo382/kiibo382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
