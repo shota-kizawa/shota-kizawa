@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shota Kizawa.
 
-- I’m interested in Graph Neural Networks, Graph Algorithms, and Discrete Mathematics.
+- I’m interested in geometric deep learning (deep learning for graphs, grids, and so on.)
 - Detailed profile:
   - https://www.linkedin.com/in/shota-kizawa
   - https://www.wantedly.com/id/sk_shota_kizawa
