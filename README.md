@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shota Kizawa.
 
-- I’m interested in machine learning for graphs, grids, and images.
+- I’m interested in representation learning and machine learning for graphs, grids, and images.
 - Detailed profile:
   - https://www.linkedin.com/in/shota-kizawa
   - https://www.wantedly.com/id/sk_shota_kizawa
