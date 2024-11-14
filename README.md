@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shota Kizawa.
 
-- I’m interested in lottery ticket hypothesis, spectral graph theory, and graph neural networks.
+- I’m interested in phenomena in deep neural networks, such as lottery ticket hypothesis and grokking. I'm also interested in LLMs for code generation.
 - Detailed profile:
   - https://www.linkedin.com/in/shota-kizawa
   - https://www.wantedly.com/id/sk_shota_kizawa
